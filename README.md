@@ -4,11 +4,11 @@ This repository contains R code for analyzing Peripheral Blood Mononuclear Cells
 
 Contents
 
-Dependencies
-Workflow Steps
-Output Files
-Usage Instructions
-Visualization Examples
+Dependencies  
+Workflow Steps  
+Output Files  
+Usage Instructions  
+Visualization Examples  
 1. Dependencies
 
 The analysis requires the following R packages:
